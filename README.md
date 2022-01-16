@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">My Team Page (Incomplete)</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io"</a>.
