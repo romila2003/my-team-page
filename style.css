@@ -52,8 +52,8 @@ body {
 
 .bill {
     position: relative;
-    width: 160px;
-    height: 250px;
+    width: 150px;
+    height: 240px;
     left: 10px;
     top: 300px;
 }
@@ -80,14 +80,14 @@ body {
     transform: rotate(90deg);
     width: 130px;
     height: 11px;
-    left: 111px;
-    top: 90px;
+    left: 102px;
+    top: 97px;
 }
 
 .saba {
     position: relative;
-    width: 160px;
-    height: 250px;
+    width: 150px;
+    height: 240px;
     left: 202px;
     top: 70px;
 }
@@ -114,14 +114,14 @@ body {
     transform: rotate(90deg);
     width: 130px;
     height: 11px;
-    left: 303px;
-    top: -140px;
+    left: 294px;
+    top: -133px;
 }
 
 .shae {
     position: relative;
-    width: 160px;
-    height: 250px;
+    width: 150px;
+    height: 240px;
     left: 10px;
     top: 100px;
 }
@@ -148,14 +148,14 @@ body {
     transform: rotate(90deg);
     width: 130px;
     height: 11px;
-    left: 111px;
-    top: -110px;
+    left: 102px;
+    top: -103px;
 }
 
 .skylah {
     position: relative;
-    width: 160px;
-    height: 250px;
+    width: 150px;
+    height: 240px;
     left: 202px;
     top: -140px;
 }
@@ -182,14 +182,14 @@ body {
     transform: rotate(90deg);
     width: 130px;
     height: 11px;
-    left: 303px;
-    top: -350px;
+    left: 294px;
+    top: -340px;
 }
 
 .griff {
     position: relative;
-    width: 160px;
-    height: 250px;
+    width: 150px;
+    height: 240px;
     left: 10px;
     top: -100px;
 }
@@ -216,14 +216,14 @@ body {
     transform: rotate(90deg);
     width: 130px;
     height: 11px;
-    left: 111px;
-    top: -310px;
+    left: 102px;
+    top: -303px;
 }
 
 .stan {
     position: relative;
-    width: 160px;
-    height: 250px;
+    width: 150px;
+    height: 240px;
     left: 202px;
     top: -330px;
 }
@@ -250,6 +250,6 @@ body {
     transform: rotate(90deg);
     width: 130px;
     height: 11px;
-    left: 303px;
-    top: -540px;
+    left: 294px;
+    top: -533px;
 }
