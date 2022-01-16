@@ -3,12 +3,12 @@
 <h1 align="center">{Your project name}</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="https://friendly-lamarr-476a37.netlify.app/"</a>.
+   Solution for a challenge from  <a href="http://devchallenges.io"</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://friendly-lamarr-476a37.netlify.app/">
       Demo
     </a>
     <span> | </span>
